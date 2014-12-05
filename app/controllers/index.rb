@@ -63,4 +63,3 @@ end
 
 
 #------------geocoder----------------
-result = request.location
